@@ -1,0 +1,58 @@
+一、Core Java
+			1.基础语法
+			2.面向对象
+			3.并发/多线程
+			4.泛型，注解，枚举
+			5.IO
+			6.反射
+			7.异常处理
+			8.集合类
+
+			联合学习--数据结构
+			书籍选择：java核心技术卷一、卷二 java编程思想
+
+			学习完进行演练
+
+	二、Java与数据库
+			1.E-R图
+			2.关系型数据库
+			3.SQL语言
+			4.事务处理
+			5.JDBC框架
+			6.连接池，数据源
+			7.Mysql
+			8.MyBatis框架
+			9.Hibernate框架
+
+
+			8.9二选一
+			重点在于数据库，java只是来访者
+
+			书籍选择：mysql必知必会，mybatis从入门到精通
+			学习完，参与演练
+	
+	三、Java web技术
+			1、HTTP
+			2、前端基础 HTML/CSS/JS/Jquery/Vue 学完基础就偶就
+			3、动态网页引擎thymeleaf
+			4、Servlet(熟悉了才能应对web框架)
+			5、SpringBoot、AOP、Web、Spring Core IOC/ApplicationContext、Date Access
+			
+			书籍选择：Spring实战、Spring Boot实战
+			配套学习：网络 
+	
+	四、项目实战
+			1、理解需求
+			2、架构和设计
+			3、项目代码组织
+			4、知识综合运用
+			5、Testing Junit Mockit
+			6、性能
+			7、健壮性
+			8、Git
+			9、Maven/Gradle
+
+			书籍选择：实战出真知，找实习，找兼职，找开源项目
+			配合学习：软件工程
+		
+	五、大型架构 专项精进
